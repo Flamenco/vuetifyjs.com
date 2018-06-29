@@ -8,7 +8,7 @@
     },
     "flat": {
       "header": "Flat",
-      "desc": "Flat buttons have no box shadow and no background. Only on hover is the container for the button shown."
+      "desc": "Flat buttons have no box shadow and no background. Only on hover or focus is the container for the button shown."
     },
     "raised": {
       "header": "Raised",
